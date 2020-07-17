@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "github-markdown-css": "^2.10.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "showdown": "^1.8.6",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1"
